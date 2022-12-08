@@ -18,3 +18,5 @@ The control program was written using the Arduino IDE with the Raspberry Pi Pico
 
 ![DeWalt_BattCutoff_pcb_picture](https://user-images.githubusercontent.com/5246863/206547494-ebd19af9-fb84-45d4-b6cc-bfe5c06f5abb.PNG)
 Got 3 prototype PCB's back from OSH Park.  I made a mistak with the SOT-23 NPN transistor pinout (base and emmiter switched).
+
+![DeWalt_BattCutoff_pcb_back_picture](https://user-images.githubusercontent.com/5246863/206549830-33471d41-a783-48d5-a530-0dcc34430159.PNG)
