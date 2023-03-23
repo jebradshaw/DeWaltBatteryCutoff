@@ -19,6 +19,7 @@ NAME, TIME, rate of discharge, battery voltage, Buzzer critical state, high volt
 The control program was written using the Arduino IDE with the Raspberry Pi Pico/RP2040 board library.  The user can set and save specific parameters in the EEPROM such as voltage, gain (resistor divider ratio), and a brief description (string).
 
 ![KiCAD PCB schematic design picture](https://user-images.githubusercontent.com/5246863/227258324-641e7cd4-d8fe-4cab-8b6a-98d318bac2c9.png)
+
 Schematic of microcontroller circuit above.  PDF of Schematic can be downloaded here-> [PicoDeWalt_BattMonV2 Schematic.pdf](https://github.com/jebradshaw/DeWaltBatteryCutoff/files/11053368/PicoDeWalt_BattMonV2.Schematic.pdf)
  .
 
