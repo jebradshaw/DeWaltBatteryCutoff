@@ -20,8 +20,13 @@ The control program was written using the Arduino IDE with the Raspberry Pi Pico
 
 ![KiCAD PCB schematic design picture](https://user-images.githubusercontent.com/5246863/227258324-641e7cd4-d8fe-4cab-8b6a-98d318bac2c9.png)
 
+![PCB_KiCad_snapshot](https://user-images.githubusercontent.com/5246863/227271869-48f692d4-3dae-4e82-ade7-7112839db594.png)
 
 ![DeWaltBattMon_v10_FinalAssembledPCB](https://user-images.githubusercontent.com/5246863/227258110-c970e234-fe8f-4f90-9262-9bf4a69d1412.png)
 
 
 These printed circuit boards were made using Digikeys DK Red service and I am very happy with the results.
+
+ To do list:  
+   1. Turn on and off debugging through serial output terminal
+   2. Implement Checksum?
