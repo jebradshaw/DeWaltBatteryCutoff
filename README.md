@@ -1,5 +1,5 @@
 # DeWaltBatteryCutoff
-This circuit is purely experimental and there has not been very much testing on it - at all.
+Please Note: This circuit is purely experimental. There has not been much testing on it - at all.
 
 PCB using the RP2040 Pico microcontroller to monitor a 20V DeWalt battery and give an alarm and eventually shutoff the battery load to avoid deep discharging.
 
